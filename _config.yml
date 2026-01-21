@@ -7,8 +7,8 @@ theme_version: 1.0.3
 title:              Ian Frisch
 logo:               # Logo image URL
 description:        Journalist, Author, Television Producer
-baseurl:            ''
-url:                'https://ianfrisch.com'
+baseurl:            '/frisch'
+url:                'https://chrisrnewton.github.io'
 twitter:            https://twitter.com/ianfrisch
 instagram:          https://www.instagram.com/ian_frisch
 
